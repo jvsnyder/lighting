@@ -1,0 +1,14 @@
+﻿  Vector4.cpp
+  Vector3.cpp
+  project4.cpp
+c:\users\ciscobandit\documents\visual studio 2015\projects\p4_lighting\p4_lighting\project4.cpp(55): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  Matrix4.cpp
+  frustum.cpp
+c:\users\ciscobandit\documents\visual studio 2015\projects\p4_lighting\p4_lighting\frustum.cpp(59): warning C4101: 'temp2': unreferenced local variable
+c:\users\ciscobandit\documents\visual studio 2015\projects\p4_lighting\p4_lighting\frustum.cpp(59): warning C4101: 'temp3': unreferenced local variable
+c:\users\ciscobandit\documents\visual studio 2015\projects\p4_lighting\p4_lighting\frustum.cpp(59): warning C4101: 'temp4': unreferenced local variable
+c:\users\ciscobandit\documents\visual studio 2015\projects\p4_lighting\p4_lighting\frustum.cpp(59): warning C4101: 'temp': unreferenced local variable
+  Camera.cpp
+  Generating Code...
+  p4_lighting.vcxproj -> C:\Users\CiscoBandit\documents\visual studio 2015\Projects\p4_lighting\Debug\p4_lighting.exe
+  p4_lighting.vcxproj -> C:\Users\CiscoBandit\documents\visual studio 2015\Projects\p4_lighting\Debug\p4_lighting.pdb (Full PDB)
